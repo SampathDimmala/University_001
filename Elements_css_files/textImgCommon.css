@@ -1,0 +1,24 @@
+
+
+.padd-sides{
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+.img-alt-lr{
+    width: 100%;
+    object-fit: cover;
+}
+.mr-left{
+    padding-left : 3rem;
+}
+.mr-right{
+    padding-right: 3rem;
+}
+.mr-bt{
+    margin-bottom: 1rem;
+    padding-bottom: 5rem;
+    padding-top : 5rem;
+    background-color: #ffffff4d;    
+    box-shadow:  1px 1px 1px 1px rgba(0, 0, 0, 0.09019607843137255);
+}
